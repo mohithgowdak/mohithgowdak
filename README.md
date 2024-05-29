@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohigowda0707" target="blank"><img src="https://img.shields.io/twitter/follow/mohigowda0707?logo=twitter&style=for-the-badge" alt="mohigowda0707" /></a> </p>
 
-- 🔭 I’m currently working on **SignLearn,JCMotors,**
+- 🔭 I’m currently working on **SignLearn Project**
 
 - 🌱 I’m currently learning **Django,Flask**
 
