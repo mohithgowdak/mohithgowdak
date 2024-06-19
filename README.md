@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mohith Gowda K</h1>
+<h1 align="center"><a href="https://kaleidoscopic-palmier-cf5069.netlify.app/" target="_blank" rel="noopener noreferrer">Hi 👋, I'm Mohith Gowda K</a></h1>
 <h5 align="left">I am a BTech student at Sri Jaya Chamarajendra College of Engineering, majoring in Computer Software Engineering, with an expected graduation date of July 2025. I have a strong academic background in science, completing my pre-university degree from Excellent Science and Commerce PU College. I have gained valuable hands-on experience in web development as a student intern at Web Development, where I designed, developed, and deployed web applications using Python, and HTML. I also contributed to various projects and events as a student member of IEEE SJCE, the largest technical professional organization in the world.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohithgowdak&label=Profile%20views&color=0e75b6&style=flat" alt="mohithgowdak" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohithgowdak" alt="mohithgowdak" /></a> </p><be>
 
-<center><p><a href="https://kaleidoscopic-palmier-cf5069.netlify.app/" target="_blank" rel="noopener noreferrer"><button type="Submit" class="text-white">Portfolio</button></a> </p><br></center>
+
 
 
 <p align="left"> <a href="https://twitter.com/mohigowda0707" target="blank"><img src="https://img.shields.io/twitter/follow/mohigowda0707?logo=twitter&style=for-the-badge" alt="mohigowda0707" /></a> </p>
