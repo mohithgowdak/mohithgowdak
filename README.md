@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohithgowdak&label=Profile%20views&color=0e75b6&style=flat" alt="mohithgowdak" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohithgowdak" alt="mohithgowdak" /></a> </p>
-<a href="https://kaleidoscopic-palmier-cf5069.netlify.app/" target="_blank" rel="noopener noreferrer"><button type="button">Resume</button></a>
+<a href="https://kaleidoscopic-palmier-cf5069.netlify.app/" target="_blank" rel="noopener noreferrer"><<button type="button" class="btn btn-secondary">Secondary</button></a>
 
 
 <p align="left"> <a href="https://twitter.com/mohigowda0707" target="blank"><img src="https://img.shields.io/twitter/follow/mohigowda0707?logo=twitter&style=for-the-badge" alt="mohigowda0707" /></a> </p>
