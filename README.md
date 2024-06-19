@@ -4,10 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohithgowdak&label=Profile%20views&color=0e75b6&style=flat" alt="mohithgowdak" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohithgowdak" alt="mohithgowdak" /></a> </p>
+[![Resume](https://img.shields.io/badge/Resume-Click%20Here-brightgreen)](https://kaleidoscopic-palmier-cf5069.netlify.app/)
 
 <p align="left"> <a href="https://twitter.com/mohigowda0707" target="blank"><img src="https://img.shields.io/twitter/follow/mohigowda0707?logo=twitter&style=for-the-badge" alt="mohigowda0707" /></a> </p>
 
-- 🔭 I’m currently working on **SignLearn Project**
+- 🔭 I’m currently working on **Online Notes Sharing Website**
 
 - 🌱 I’m currently learning **Django,Flask**
 
