@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://mohithgowdak.netlify.app/" target="_blank" rel="noopener noreferrer">Hi 👋, I'm Mohith Gowda K</a></h1>
+<h1 align="center"><a href="https://mohithgowdak.vercel.app//" target="_blank" rel="noopener noreferrer">Hi 👋, I'm Mohith Gowda K</a></h1>
 <h5 align="left">I am a BTech student at Sri Jaya Chamarajendra College of Engineering, majoring in Computer Software Engineering, with an expected graduation date of July 2025. I have a strong academic background in science, completing my pre-university degree from Excellent Science and Commerce PU College. I have gained valuable hands-on experience in web development as a student intern at Web Development, where I designed, developed, and deployed web applications using Python, and HTML. I also contributed to various projects and events as a student member of IEEE SJCE, the largest technical professional organization in the world.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohithgowdak&label=Profile%20views&color=0e75b6&style=flat" alt="mohithgowdak" /> </p>
