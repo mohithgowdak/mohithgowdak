@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://mohithgowdak.vercel.app//" target="_blank" rel="noopener noreferrer">Hi 👋, I'm Mohith Gowda K</a></h1>
 <h5 align="left">Hi there! I’m Mohith, a final-year Computer Science Engineering student at Sri Jayachamarajendra College of Engineering, graduating in July 2025. My journey in tech began with a love for problem-solving and creating meaningful solutions. With a strong foundation in science and notable achievements like top ranks in national exams (NMMS and ICAR), I’ve always been curious about exploring how technology can improve life.
-<be><br>
+<br><br>
 Over the years, I’ve had the chance to work on exciting projects and gain real-world experience. As an R&D intern at OpenText, I dove into backend development, building drivers for identity management software using Java, SQL, and REST APIs. Freelancing with SoulAI allowed me to test and fine-tune AI models, combining creativity and technical skills. My favorite projects include a real-time sign language recognition platform and a mental health support system blending web development and cutting-edge tech to solve real problems.
 <br><br>
 Looking ahead, I see myself stepping into the world of product management, where I can bridge the gap between technology and user needs. I’m passionate about building products that don’t just work but truly make a difference. Beyond that, I’m always eager to learn, collaborate, and grow in AI, cloud computing, and cybersecurity. Let’s connect and create something amazing together!</h5>
