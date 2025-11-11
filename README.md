@@ -14,13 +14,13 @@ Looking ahead, I see myself stepping into the world of product management, where
 
 <p align="left"> <a href="https://twitter.com/mohigowda0707" target="blank"><img src="https://img.shields.io/twitter/follow/mohigowda0707?logo=twitter&style=for-the-badge" alt="mohigowda0707" /></a> </p>
 
-- 🔭 I’m currently working on **Online Notes Sharing Website**
+- 🔭 I’m currently working on **Ai Development**
 
-- 🌱 I’m currently learning **Django,Flask**
+- 🌱 I’m currently learning **LLM**
 
-- 👯 I’m looking to collaborate on **Web development projects**
+- 👯 I’m looking to collaborate on **AI ML**
 
-- 🤝 I’m looking for help with **DJango ,React,Mediapipe**
+- 🤝 I’m looking for help with **AI Integration, LLM Fine tuning
 
 - 📫 How to reach me **mohithgowdak.kote@gmail.com**
 
