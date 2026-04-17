@@ -8,7 +8,7 @@
 
 <a href="https://mohithgowdak.vercel.app/" target="_blank" rel="noopener noreferrer"><b>Portfolio</b></a>
 &nbsp;•&nbsp;
-<a href="https://linkedin.com/in/mohith-gowda-k-5aa754229" target="_blank" rel="noopener noreferrer"><b>LinkedIn</b></a>
+<a href="https://linkedin.com/in/mohith-gowda-k" target="_blank" rel="noopener noreferrer"><b>LinkedIn</b></a>
 &nbsp;•&nbsp;
 <a href="mailto:mohithgowdak.kote@gmail.com"><b>Email</b></a>
 &nbsp;•&nbsp;
@@ -148,6 +148,6 @@ I enjoy projects at the intersection of **AI and web**—from **SignLearn** (rea
 ## Connect
 
 - **Email**: [mohithgowdak.kote@gmail.com](mailto:mohithgowdak.kote@gmail.com)
-- **LinkedIn**: `https://linkedin.com/in/mohith-gowda-k-5aa754229`
+- **LinkedIn**: `https://linkedin.com/in/mohith-gowda-k`
 - **Twitter/X**: `https://twitter.com/mohigowda0707`
 - **Instagram** (optional): `https://instagram.com/mohithgowdak_`
