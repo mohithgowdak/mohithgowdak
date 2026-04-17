@@ -4,7 +4,7 @@
 
 <h1>Mohith Gowda K</h1>
 
-<p><b>AI + Backend</b> • Building practical ML features and developer-friendly systems.</p>
+<p><b>AI Engineer</b> • I build real-time ML products and backend tooling (MCP, automation) that ships.</p>
 
 <a href="https://mohithgowdak.vercel.app/" target="_blank" rel="noopener noreferrer"><b>Portfolio</b></a>
 &nbsp;•&nbsp;
@@ -24,44 +24,50 @@
 
 ## About
 
-Hi there! I’m Mohith, a final-year Computer Science Engineering student at Sri Jayachamarajendra College of Engineering, graduating in **July 2025**. My journey in tech began with a love for problem-solving and creating meaningful solutions. With a strong foundation in science and notable achievements like top ranks in national exams (NMMS and ICAR), I’ve always been curious about exploring how technology can improve life.
+I’m Mohith — a **CSE (BE, 2025)** graduate focused on **AI/ML + Computer Vision** and building real-time systems that ship as usable products.
 
-Over the years, I’ve had the chance to work on exciting projects and gain real-world experience. As an R&D intern at **OpenText**, I dove into backend development, building drivers for identity management software using **Java, SQL, and REST APIs**. Freelancing with **SoulAI** allowed me to test and fine-tune AI models, combining creativity and technical skills. My favorite projects include a real-time sign language recognition platform and a mental health support system blending web development and cutting-edge tech to solve real problems.
+Currently, I work as a **Cloud Support Engineer (SAP S/4HANA Public Cloud)** at **SAP Labs**, where I learn how large-scale enterprise systems operate and how to deliver reliable solutions for real users. Previously, I was an **IDM Application Development apprentice at OpenText** (Java/SQL/REST), and I also worked as a **Freelance Prompt Tester at SoulAI** (LLM evaluation + prompt quality feedback).
 
-Looking ahead, I’m interested in **product-minded engineering**—bridging technology and user needs to build products that truly make a difference. I’m always eager to learn, collaborate, and grow in **AI, cloud computing, and cybersecurity**.
+I enjoy projects at the intersection of **AI and web**—from **SignLearn** (real-time sign-language → text, **91% accuracy**) to computer-vision research like **micro-expression recognition** (UF1 **0.9722**, ECE **0.1131**) using optical flow + transformer-based modeling.
+
+---
+
+## Highlights (recruiter quick-scan)
+
+- Built **ContextBuddy**: context compression + token budgeting (claims up to **~60% token/cost savings**)
+- Built & shipped **AI automation tooling (MCP)**: n8n workflow generation + GitHub Projects manager (**47+ tools**)
+- Built **real-time Computer Vision** products: SignLearn (**91% accuracy**) using **MediaPipe + React + Firebase**
 
 ---
 
 ## Now
 
-- **Working on**: AI development
-- **Learning**: LLMs (integration, evaluation, and deployment)
-- **Open to**: AI/ML collaborations and building end-to-end products
+- **Working on**: AI/ML + Computer Vision projects (real-time recognition, behavior-aware systems)
+- **Learning**: LLM integration + evaluation (prompting, testing, deployment)
+- **Open to**: **AI Engineer** roles (Applied AI / LLMs / Computer Vision)
 - **Reach me**: `mohithgowdak.kote@gmail.com`
 
 ---
 
 ## Featured projects
 
-> Pin your best repos on GitHub and mirror them here. Replace the placeholders below with your top 3–6 projects.
+### 1) ContextBuddy — compress prompts, cut LLM cost
+- **What it does**: lightweight Python library that compresses noisy context (PDFs/web/docs) into a **token-budgeted**, high-signal prompt with **semantic pruning + entity preservation**.
+- **Why it matters**: improves answer quality while reducing spend (your README claims up to **~60%** cost reduction).
+- **Tech**: Python • prompt compression • RAG middleware
+- **Links**: Repo `https://github.com/mohithgowdak/ContextBuddy`
 
-### 1) Project name — one-line outcome
-- **What it does**: …
-- **Why it matters**: …
-- **Tech**: Python • FastAPI • Postgres • Docker
-- **Links**: Repo • Demo • Write-up
+### 2) n8n Workflow Generator (MCP) — natural language → deployable automation
+- **What it does**: turns plain-English automation requests into **validated n8n workflow JSON**, with optional deployment via n8n REST API.
+- **Why it matters**: reduces workflow creation time and eliminates common config/validation errors.
+- **Tech**: Python • MCP • httpx • Pydantic • n8n REST API • Clean Architecture
+- **Links**: Repo `https://github.com/mohithgowdak/n8n-workflow-generator-mcp`
 
-### 2) Project name — one-line outcome
-- **What it does**: …
-- **Why it matters**: …
-- **Tech**: Java • SQL • REST
-- **Links**: Repo • Demo • Write-up
-
-### 3) Project name — one-line outcome
-- **What it does**: …
-- **Why it matters**: …
-- **Tech**: React • JavaScript/TypeScript • Firebase
-- **Links**: Repo • Demo • Write-up
+### 3) MCP GitHub Project Manager — manage GitHub Projects via MCP
+- **What it does**: Python MCP server with **47+ tools** to manage **GitHub Projects v2**, issues, milestones, sprints, labels, comments, and custom fields via GitHub’s APIs.
+- **Why it matters**: lets AI agents + dev tools automate real project management workflows (roadmaps, sprint planning, metrics) instead of just code-gen.
+- **Tech**: Python • MCP • GitHub GraphQL • Pydantic • Clean Architecture
+- **Links**: Repo `https://github.com/mohithgowdak/git_proj_manger_mcp`
 
 ---
 
@@ -83,6 +89,8 @@ Looking ahead, I’m interested in **product-minded engineering**—bridging tec
 <img alt="Django" src="https://img.shields.io/badge/Django-111827?style=flat&logo=django&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-111827?style=flat&logo=mysql&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-111827?style=flat&logo=mongodb&logoColor=white" />
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-111827?style=flat&logo=postgresql&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker-111827?style=flat&logo=docker&logoColor=white" />
 
 <br/><br/>
 
@@ -91,6 +99,13 @@ Looking ahead, I’m interested in **product-minded engineering**—bridging tec
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-111827?style=flat&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-111827?style=flat&logo=css3&logoColor=white" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-111827?style=flat&logo=bootstrap&logoColor=white" />
+
+<br/><br/>
+
+<b>ML / CV</b><br/>
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-111827?style=flat&logo=pytorch&logoColor=white" />
+<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-111827?style=flat&logo=opencv&logoColor=white" />
+<img alt="MediaPipe" src="https://img.shields.io/badge/MediaPipe-111827?style=flat&logo=google&logoColor=white" />
 
 <br/><br/>
 
